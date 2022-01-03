@@ -1,5 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 .main-title{
-    font-size: 40px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #25221b;
+    color: #474744;
+    text-align: center;
+    
+}
+.author-details{
+    padding-left: 50px;
+    font-size: 18px;
+    color: #8080c0;
+    
+}
+.author-name{
+    font-size: 14px;
+    font-family: arial;
+    color: lightcoral;
+    padding-left: 5px;
+}
+.main-details{
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    text-align: justify;
+    padding: 10px 50px;
+    line-height: 1.3;
 }
